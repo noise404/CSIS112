@@ -1,2 +1,3 @@
-# CSIS112
-School work repo
+# CSCIS112
+
+Stuff actively being worked on
